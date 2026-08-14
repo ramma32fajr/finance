@@ -1,0 +1,15 @@
+{
+  "name": "PERSONAL FINANCE",
+  "short_name": "Finance",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#eeeeee",
+  "theme_color": "#eeeeee",
+  "icons": [
+    {
+      "src": "https://yt3.googleusercontent.com/FFH4GqP1hNUdY-39WiuXyyq2QY8R7O7NrlBCvnJTKEi-xGocaxk90r1cp5ZI53J8APsEDPQ7=s900-c-k-c0x00ffffff-no-rj",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
