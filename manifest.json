@@ -7,7 +7,7 @@
   "theme_color": "#eeeeee",
   "icons": [
     {
-      "src": "https://raw.githubusercontent.com/ramma32fajr/finance/refs/heads/main/wallet.png",
+      "src": "https://raw.githubusercontent.com/ramma32fajr/finance/refs/heads/main/favico.png",
       "sizes": "512x512",
       "type": "image/png"
     }
